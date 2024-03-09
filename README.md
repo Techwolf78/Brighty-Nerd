@@ -11,7 +11,7 @@ Welcome to Brighty-Nerd, a web project designed to showcase comprehensive learni
 
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/your-username/Brighty-Nerd.git`
+1. Clone the repository: `git clone https://github.com/Techwolf78/Brighty-Nerd.git`
 2. Open the project directory in your code editor.
 3. Open `index.html` in a web browser.
 
@@ -26,6 +26,3 @@ Welcome to Brighty-Nerd, a web project designed to showcase comprehensive learni
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize the README according to your specific project details, dependencies, and licensing information. Providing clear and concise information helps others understand and contribute to your project.
-
