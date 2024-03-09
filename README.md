@@ -9,36 +9,23 @@ Welcome to Brighty-Nerd, a web project designed to showcase comprehensive learni
 - Interactive main video section with clickable videos.
 - Footer with quick links and social media icons.
 
-## Project Structure
-The project follows a standard web development structure:
-project-root-directory/
-│
-├── css/
-│ ├── style.css
-│
-├── favicon_io/
-│ ├── apple-touch-icon.png
-│ ├── favicon-32x32.png
-│ ├── favicon-16x16.png
-│ ├── site.webmanifest
-│
-├── images/
-│ ├── home-img.png
-│ ├── category-1.png
-│ ├── category-2.png
-│ ├── category-3.png
-│ ├── category-4.png
-│ ├── category-5.png
-│
-├── js/
-│ ├── script.js
-│
-├── index.html
-├── about.html
-├── course-1.html
-├── course-2.html
-├── course-3.html
-├── teachers.html
-├── blog.html
-├── contact.html
+
+## How to Run
+1. Clone the repository: `git clone https://github.com/your-username/Brighty-Nerd.git`
+2. Open the project directory in your code editor.
+3. Open `index.html` in a web browser.
+
+## Browser Compatibility
+- The project is optimized for modern web browsers such as Chrome, Firefox, Safari, and Edge.
+
+## Acknowledgments
+- Font Awesome for providing icons.
+- Additional libraries or resources you may have used.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to customize the README according to your specific project details, dependencies, and licensing information. Providing clear and concise information helps others understand and contribute to your project.
 
